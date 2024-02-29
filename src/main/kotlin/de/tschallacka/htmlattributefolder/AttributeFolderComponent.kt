@@ -1,4 +1,4 @@
-package dev.zbinski.htmlattributefolder
+package de.tschallacka.htmlattributefolder
 
 import javax.swing.JPanel
 import javax.swing.JComponent

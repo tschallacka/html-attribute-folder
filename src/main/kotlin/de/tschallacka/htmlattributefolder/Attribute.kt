@@ -1,4 +1,4 @@
-package dev.zbinski.htmlattributefolder
+package de.tschallacka.htmlattributefolder
 
 import com.intellij.psi.PsiElement
 

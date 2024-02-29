@@ -1,4 +1,4 @@
-package dev.zbinski.htmlattributefolder
+package de.tschallacka.htmlattributefolder
 
 import javax.swing.JComponent
 import com.intellij.openapi.options.Configurable
